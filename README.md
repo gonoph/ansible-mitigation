@@ -6,6 +6,7 @@ Ansible Playbooks to mitigate certain CVEs
 1. clone or download the needed mitigation
 2. configure your inventory
 3. run the mitigation as a playbook
+4. set `apply_mitigation=False` if you want to unapply the mitigation
 
 ## DISCLAIMER
 
