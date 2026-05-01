@@ -7,6 +7,7 @@ Ansible Playbooks to mitigate certain CVEs
 2. configure your inventory
 3. run the mitigation as a playbook
 4. set `apply_mitigation=False` if you want to unapply the mitigation
+5. **optional** set `apply_reboot=True` if you want to reboot the system immediately after the mitigation changes
 
 ## Examples
 
